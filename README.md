@@ -1,2 +1,44 @@
-# tungtung.github.io
-Landing page for my Telegram channel "Anime avs"
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Anime Avs  |Different anime avatars </title> 
+    <meta name="description" content=" In this Telegram channel you can find different anime avatars for your profile.
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f0f0f0;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            display: inline-block;
+        }
+        .tg-button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 15px 30px;
+            background: #0088cc;
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 8px;
+            font-weight: bold;
+        }
+        .tg-button:hover {
+            background: #006da3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container [Anime Avs]"!</h1> 
+        <p>Здесь мы публикуем самый интересный контент о [anime avatars]. Присоединяйтесь к нашему сообществу!</https://t.me/aNimE_aVsss> 
+        <a href="https://t.me/aNimE_aVsss" class="tg-button">Подписаться в Telegram</https://t.me/aNimE_aVsss>
+    </div>
+</body>
+</html>
